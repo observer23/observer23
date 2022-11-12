@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ekin Emre Atasoy
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning IOS Development with Swift
+- 👀 I’m interested in iOS Development with Swift
+- 🌱 I’m lifetime learner
 - 📫 How to reach me 
                       linkedin.com/in/ekinemreatasoy
                       ekinatasoy4@gmail.com
